@@ -1,0 +1,915 @@
+body{
+    background-color: rgba(221, 237, 246, 0.521);
+}
+
+
+
+
+@media (max-width:1024px){
+    .imgground{
+        margin-right: -10rem;
+        
+    }
+}
+
+@media (max-width:858px){
+    .imgground{
+        width: 70vh;
+       
+
+    }
+
+    .pics{
+        flex-direction: column;
+    }
+}
+
+@media (max-width:848px){
+    .logo{
+        font-size:large ;
+    }
+    .main_text{
+        font-size: 1.5rem;
+        margin-right: 5rem;
+
+    }
+    .remove_f{
+        margin-right: 1rem;
+        font-size: 10px;
+    }
+    .typ{
+        font-size: 12px;
+    }
+    .price{
+        font-size: 12px;
+    }
+}
+
+@media (max-width:837px){
+    .main_text{
+        flex-wrap: wrap;
+        line-height: 10px;
+        font-size: 15px;
+        margin-left: 5rem;
+       
+    }
+}
+
+@media (max-width:706px){
+    .main_text{
+       display: none;
+        
+       
+    }
+}
+
+
+@media (max-width:444px){
+    .imgground{
+        width: 50vh;
+        right:0;
+        left:0;
+        margin-left: 3.5rem;
+    }
+}
+
+@media (max-width:330px){
+    .header{
+        width: 26rem;
+
+    }
+        
+       
+    
+}
+    
+@media (min-width:2560px){
+    
+    .header{
+        height: 13rem;
+       
+    }
+    .logo{
+        font-size: 4rem;
+    }
+    .main_text{
+        font-size: 4rem;
+    }
+    .heado{
+        font-size: 3rem;
+    }
+    #searchInput{
+        width: 30rem;
+        height: 3rem;
+        margin-top: -1rem;
+    
+
+    }
+    #searchInput::placeholder{
+        font-size: 2rem;
+        margin-top: 1rem;
+
+    }
+    
+    
+    .all{
+        margin-top: -2rem;
+    }
+
+    .all button{
+       height: 3rem;
+       width: 10rem;
+       margin-top: 0.5rem;
+       font-size: 1.5rem;
+    }
+    .product_box{
+        height: auto;
+        width: 110rem;
+    }
+
+    .template{
+        height: 29rem;
+        width:22rem ;
+        margin-left: 2rem;
+    }
+    .template img{
+        width: 22rem;
+        height: 15rem;
+        
+    }
+    .template h3{
+        font-size: 2rem;
+    }
+    .template p{
+        font-size: 1.5rem;
+    }
+
+    .template button{
+        height: 3rem;
+        width: 10rem;
+        font-size: 1.2rem;
+        border-radius: 50px;
+    }
+
+    .fav_box{
+        width: 60rem;
+    }
+
+    .fav_item{
+        height: 17rem;
+    }
+
+    .fav_item img{
+        height: 17rem;
+        width: 20rem;
+    }
+    .fav_item h3{
+        font-size: 2.5rem;
+    }
+    .fav_item p {
+        font-size: 2rem;
+    }
+    .fav_item button{
+        width: 15rem;
+        height: 5rem;
+        border-radius: 50px;
+        font-size: 1.3rem;
+    }
+
+    .fname{
+        font-size: 3rem;
+    }
+    .icon{
+        font-size: 3rem;
+    }
+
+    .navbar{
+       height: 8rem;
+       border-radius:100px;
+    }
+
+    .navbar div{
+        font-size: 2.5rem;
+        margin-top: 2rem;
+    }
+
+    .mare{
+        margin-left: 4rem;
+    }
+    .imgground{
+       height: 60rem;
+       margin-top: 10rem;
+       
+      
+       
+       
+       
+    }
+
+    
+
+    .imgb h3{
+        font-size: 5em;
+
+    }
+    .imgb p{
+        font-size: 2rem;
+        line-height: 30px;
+    }
+
+    .imgb iframe{
+        width: 40rem;
+        height: 40rem;
+    }
+    
+    .imgb img{
+        width: 40rem;
+        height: 40rem;
+    }
+
+    .pics{
+        gap: 5rem;
+        justify-content: space-around;
+    }
+
+
+    
+}
+
+@media (max-width:320px){
+    .template{
+        width: 17rem;
+        margin-right: 0.5rem;
+        height: 24rem;
+    }
+
+    .template img{
+        width: 17rem;
+    }
+
+    .template h3{
+        font-size: 1.3rem;
+    }
+
+    .template p{
+        font-size: 1.2rem;
+    }
+
+    .template button{
+        width: 10rem;
+        font-size: 1rem;
+       margin-top: 0.5rem;
+       padding: 0.5rem;
+    }
+
+    .fav_item{
+        width: 3rem;
+       
+        
+
+    }
+    .fav_item h3{
+        font-size: 1.5rem;
+        
+    }
+
+    .fav_item p{
+        font-size: 2rem;
+        margin-left: 1rem;
+
+      
+    }
+
+    .fav_item button{
+        margin-left: 2rem;
+        width: 10rem;
+        font-size: 1rem;
+       
+
+    }
+    .fav_item img{
+        width: 12rem;
+
+    }
+    
+    .boxes{
+        flex-direction: column;
+    }
+
+    .product_box{
+        width: 37rem;
+        margin-left: 1.4rem;
+    }
+
+    .header{
+        width: 39rem;
+        height: 8rem;
+    }
+    .logo{
+        font-size: 3rem;
+    }
+    #searchInput{
+        width: 20rem;
+        height: 2.5rem;
+
+    }
+    .heado{
+        font-size: 1.3rem;
+    }
+    
+
+    .header button{
+        height: 2rem;
+        width: 7rem;
+        font-size: 1.3rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .ad_btn{
+        width: 39rem;
+        margin-left: 0.5rem;
+    }
+
+    .navbar{
+        width:39rem ;
+    }
+
+    .imgground{
+        left: 0;
+        right: 0;
+        margin-left: -11rem;
+        
+    }
+    .pics{
+        flex-direction: row;
+    }
+
+    .cls-botm{
+       border-radius: 25px;
+       margin-left: 0.3rem;
+       margin-bottom: 0.3rem;
+    }
+    
+
+    
+    
+    
+        
+       
+    
+}
+
+@media (max-width:376px){
+    .template{
+        width: 17rem;
+        margin-right: 0.5rem;
+        height: 24rem;
+    }
+
+    .template img{
+        width: 17rem;
+    }
+
+    .template h3{
+        font-size: 1.3rem;
+    }
+
+    .template p{
+        font-size: 1.2rem;
+    }
+
+    .template button{
+        width: 10rem;
+        font-size: 1rem;
+       margin-top: 0.5rem;
+       padding: 0.5rem;
+    }
+
+    .fav_item{
+        width: 3rem;
+       
+        
+
+    }
+    .fav_item h3{
+        font-size: 1.5rem;
+        
+    }
+
+    .fav_item p{
+        font-size: 2rem;
+        margin-left: 1rem;
+
+      
+    }
+
+    .fav_item button{
+        margin-left: 2rem;
+        width: 10rem;
+        font-size: 1rem;
+       
+
+    }
+    .fav_item img{
+        width: 12rem;
+
+    }
+    
+    .boxes{
+        flex-direction: column;
+    }
+
+    .product_box{
+        width: 37rem;
+        margin-left: 1.4rem;
+    }
+
+    .header{
+        width: 39rem;
+        height: 8rem;
+    }
+    .logo{
+        font-size: 3rem;
+    }
+    #searchInput{
+        width: 20rem;
+        height: 2.5rem;
+
+    }
+    .heado{
+        font-size: 1.3rem;
+    }
+    
+
+    .header button{
+        height: 2rem;
+        width: 7rem;
+        font-size: 1.3rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .ad_btn{
+        width: 39rem;
+        margin-left: 0.5rem;
+    }
+
+    .navbar{
+        width:39rem ;
+    }
+    .imgground{
+        left: 0;
+        right: 0;
+        margin-left: -11rem;
+        
+    }
+    .pics{
+        flex-direction: row;
+    }
+
+    .cls-botm{
+       border-radius: 25px;
+       margin-left: 0.3rem;
+       margin-bottom: 0.3rem;
+    }
+       
+    
+}
+
+@media (max-width:426px){
+    .template{
+        width: 17rem;
+        margin-right: 0.5rem;
+        height: 24rem;
+    }
+
+    .template img{
+        width: 17rem;
+    }
+
+    .template h3{
+        font-size: 1.3rem;
+    }
+
+    .template p{
+        font-size: 1.2rem;
+    }
+
+    .template button{
+        width: 10rem;
+        font-size: 1rem;
+       margin-top: 0.5rem;
+       padding: 0.5rem;
+    }
+
+    .fav_item{
+        width: 3rem;
+       
+        
+
+    }
+    .fav_item h3{
+        font-size: 1.5rem;
+        
+    }
+
+    .fav_item p{
+        font-size: 2rem;
+        margin-left: 1rem;
+
+      
+    }
+
+    .fav_item button{
+        margin-left: 2rem;
+        width: 10rem;
+        font-size: 1rem;
+       
+
+    }
+    .fav_item img{
+        width: 12rem;
+
+    }
+    .boxes{
+        flex-direction: column;
+    }
+
+    .product_box{
+        width: 37rem;
+        margin-left: 1.4rem;
+    }
+
+    .header{
+        width: 39rem;
+        height: 8rem;
+    }
+    .logo{
+        font-size: 3rem;
+    }
+    #searchInput{
+        width: 20rem;
+        height: 2.5rem;
+
+    }
+    .heado{
+        font-size: 1.3rem;
+    }
+    
+
+    .header button{
+        height: 2rem;
+        width: 7rem;
+        font-size: 1.3rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .ad_btn{
+        width: 39rem;
+        margin-left: 0.5rem;
+    }
+
+    .navbar{
+        width:39rem ;
+    }
+    .imgground{
+        left: 0;
+        right: 0;
+        margin-left: -11rem;
+        
+    }
+    .pics{
+        flex-direction: row;
+    }
+
+    .cls-botm{
+       border-radius: 25px;
+       margin-left: 0.3rem;
+       margin-bottom: 0.3rem;
+    }
+     
+}
+@media (max-width:821px){
+    .template{
+        width: 20rem;
+        margin-left: 2rem;
+        height: 26rem;
+    }
+
+    .template img{
+        width: 20rem;
+    }
+
+    .template h3{
+        font-size: 1.7rem;
+    }
+
+    .template p{
+        font-size: 1.5rem;
+    }
+
+    .fav_box{
+        width: 49rem;
+        margin-left: 0.5rem;
+    }
+
+    .template button{
+        width: 10rem;
+        font-size: 1rem;
+       margin-top: 0.2rem;
+       padding: 0.5rem;
+       height: 2.5rem;
+    }
+
+    .fav_item{
+        margin-left:0.5rem;
+       
+        
+
+    }
+    .fav_item h3{
+        font-size: 1.5rem;
+        
+    }
+
+    .fav_item p{
+        font-size: 2rem;
+        margin-left: 1rem;
+
+      
+    }
+
+    .fav_item button{
+        margin-left: 2rem;
+        width: 10rem;
+        font-size: 1rem;
+       
+
+    }
+    .fav_item img{
+        width: 12rem;
+
+    }
+    
+    .boxes{
+        flex-direction: column;
+    }
+
+    .product_box{
+        width: 47rem;
+        margin-left: 1.6rem;
+    }
+
+    .header{
+        width: 49rem;
+        height: 8rem;
+    }
+
+    .main_text{
+        display: none;
+    }
+    .logo{
+        font-size: 3rem;
+    }
+    #searchInput{
+        width: 20rem;
+        height: 2.5rem;
+
+    }
+    .heado{
+        font-size: 1.3rem;
+    }
+    
+
+    .header button{
+        height: 2rem;
+        width: 7rem;
+        font-size: 1.3rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .ad_btn{
+        width: 49rem;
+        margin-left: 0.5rem;
+    }
+
+    .navbar{
+        width:49rem ;
+    }
+    .imgground{
+        left: 0;
+        right: 0;
+        margin-left: -11rem;
+        
+    }
+    .pics{
+        flex-direction: row;
+    }
+
+    .cls-botm{
+       border-radius: 25px;
+       margin-left: 0.3rem;
+       margin-bottom: 0.3rem;
+    }
+
+    .fname{
+        font-size: 2rem;
+        font-weight: 500;
+        margin-bottom: 0.5rem;
+    }
+
+    .icon{
+        font-size: 2rem;
+    }
+    .imgground{
+        left: 0;
+        right: 0;
+        margin-left: -14rem;
+        margin-top: 4rem;
+    
+        
+        
+    }
+    .pics{
+        flex-direction: row;
+    }
+
+    .cls-botm{
+       border-radius: 25px;
+       margin-left: 0.3rem;
+       margin-bottom: 0.3rem;
+    }
+
+    .di{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        line-height: 25px;
+        
+    }
+     
+}
+
+@media (max-width:1025px){
+    .template{
+        width: 25rem;
+        margin-left: 2rem;
+        height: 30rem;
+    }
+
+    .template img{
+        width: 25rem;
+        height: 16rem;
+    }
+
+    .template h3{
+        font-size: 1.9rem;
+    }
+
+    .template p{
+        font-size: 1.7rem;
+    }
+
+    .fav_box{
+        width: 61rem;
+        margin-left: 1rem;
+    }
+
+    .template button{
+        width: 12rem;
+        font-size: 1.3rem;
+       padding: 0.5rem;
+       height: 2.9rem;
+    }
+
+    .fav_item{
+        margin-left:0.5rem;
+       
+        
+
+    }
+    .fav_item h3{
+        font-size: 1.9rem;
+        
+    }
+
+    .fav_item p{
+        font-size: 2.3rem;
+        margin-left: 1.3rem;
+
+      
+    }
+
+    .fav_item button{
+        margin-left: 2rem;
+        width: 14rem;
+        height: 3.5rem;
+        font-size: 1.3rem;
+        margin-left: 3rem;
+        border-radius: 50px;
+       
+
+    }
+    .fav_item img{
+        width: 12rem;
+
+    }
+    
+    .boxes{
+        flex-direction: column;
+    }
+
+    .product_box{
+        width: 59rem;
+        margin-left: 2rem;
+    }
+
+    .header{
+        width: 61rem;
+        height: 8rem;
+        margin-left: 1rem;
+    }
+
+    .main_text{
+        display: none;
+    }
+    .logo{
+        font-size: 3rem;
+    }
+    #searchInput{
+        width: 20rem;
+        height: 2.5rem;
+
+    }
+    .heado{
+        font-size: 1.3rem;
+    }
+    
+
+    .header button{
+        height: 2rem;
+        width: 7rem;
+        font-size: 1.3rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .ad_btn{
+        width: 61rem;
+        margin-left: 0.6rem;
+    }
+
+    .navbar{
+        width:61rem ;
+        margin-left: 1rem;
+    }
+    .imgground{
+        left: 0;
+        right: 0;
+        margin-left: -11rem;
+        
+    }
+    .pics{
+        flex-direction: row;
+    }
+
+    .cls-botm{
+       border-radius: 25px;
+       margin-left: 0.3rem;
+       margin-bottom: 0.3rem;
+    }
+
+    .fname{
+        font-size: 2rem;
+        font-weight: 500;
+        margin-bottom: 0.5rem;
+    }
+
+    .icon{
+        font-size: 2rem;
+    }
+    .imgground{
+        left: 0;
+        right: 0;
+        margin-left: -17rem;
+        margin-top: 4rem;
+    
+        
+        
+    }
+    .pics{
+        flex-direction: row;
+    }
+
+    .cls-botm{
+       border-radius: 25px;
+       margin-left: 0.3rem;
+       margin-bottom: 0.3rem;
+    }
+
+    .di{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        line-height: 25px;
+        
+    }
+     
+}
+

@@ -1,0 +1,186 @@
+[
+    {
+        "id": "prop1",
+        "typeh": "Penthouse",
+        "bedrooms": 3,
+        "price": 1750000,
+        "tenure": "Leasehold",
+        "description": "Exquisite three-bedroom penthouse offering unparalleled city skyline views. This luxurious residence boasts high-end finishes, a spacious living area, and floor-to-ceiling windows that provide abundant natural light. The penthouse includes exclusive access to a rooftop terrace, concierge service, and private parking. Ideally located near upscale shopping and fine dining.",
+        "location": "Colombo",
+        "picture": "https://ca-times.brightspotcdn.com/dims4/default/10b8be4/2147483647/strip/true/crop/4953x3297+0+0/resize/1200x799!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F48%2Ffa%2F5a98669e438d9b4f47135b5afb04%2F8899-beverly-v3-fullres-34.jpg",
+        "picture1" :"https://na.rdcpix.com/84a4ec9e6b0eb3f2ed40c255930c9a72w-c2472597898rd-w832_q80.jpg",
+        "picture2":"https://images.adsttc.com/media/images/635a/7181/8e83/fd08/6792/c9aa/large_jpg/tropical-penthouse-studioduo-architecture-interior_1.jpg?1666871728",
+        "picture3":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/c3094b48709025.589f9495c014c.jpg",
+        "picture4":"https://media.designcafe.com/wp-content/uploads/2021/11/22204726/living-room-designs-indian-style-middle-class.jpg",
+        "picture5":"https://www.mcdonaldjoneshomes.com.au/sites/default/files/inline-images/Interior-Design-Trends.jpg",
+        "picture6":"https://i.ytimg.com/vi/jz2mL0ortEE/sddefault.jpg",
+        "picture7":"https://foyr.com/learn/wp-content/uploads/2020/03/ab.jpg",
+        "url": "properties/prop8.html",
+        "type":"Sale",
+        "plan":"https://www.thehousedesigners.com/images/plans/01/HWD/bulk/6900/thd-014-fp-02.webp",
+        "added": "August 29 2023"
+        
+
+      },
+
+      
+      {
+        "id": "prop2",
+        "typeh": "House",
+        "bedrooms": 4,
+        "price": 820000,
+        "tenure": "Freehold",
+        "description": "Charming four bedroom detached family home located in a serene neighborhood near the riverfront. This property boasts a spacious living room, a modern kitchen with dining area, and a delightful garden. The first floor comprises four bedrooms, including a master bedroom with an ensuite. Additional features include a garage, off-street parking, and beautiful views of the surrounding greenery.",
+        "location": "Keleniya",
+        "picture": "https://www.thehousedesigners.com/images/plans/URD/bulk/6583/the-destination-front-rendering.jpg",
+        "picture1":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/c3094b48709025.589f9495c014c.jpg",
+        "picture2":"https://media.designcafe.com/wp-content/uploads/2023/01/31151510/contemporary-interior-design-ideas-for-your-home.jpg",
+        "picture3":"https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/3/2021/10/18115838/modern-house-design.jpg",
+        "picture4":"https://media.designcafe.com/wp-content/uploads/2021/11/22204726/living-room-designs-indian-style-middle-class.jpg",
+        "picture5":"https://www.mcdonaldjoneshomes.com.au/sites/default/files/inline-images/Interior-Design-Trends.jpg",
+        "picture6":"https://i.ytimg.com/vi/jz2mL0ortEE/sddefault.jpg",
+        "picture7":"https://foyr.com/learn/wp-content/uploads/2020/03/ab.jpg",
+        "url": "properties/prop2.html",
+        "type":"Sale",
+        "plan":"https://www.thehousedesigners.com/images/plans/01/HWD/bulk/6900/thd-014-fp-02.webp",
+        "added": {
+          "month": "September",
+          "day": 25,
+          "year": 2023
+        }
+      },
+      
+
+      {
+        "id": "prop3",
+        "typeh": "Apartment",
+        "bedrooms": 2,
+        "price": 550000,
+        "tenure": "Leasehold",
+        "description": "Modern two-bedroom apartment with stunning city views in a prime downtown location. This unit offers an open-plan living space, a fully equipped kitchen, and a private balcony. The building features a gym, concierge service, and secure parking. Close proximity to public transportation, shopping centers, and entertainment venues.",
+        "location": "Gampaha",
+        "picture": "https://lh3.googleusercontent.com/YFa-f0a1kOiU0eEX6Q1dw6i8E1wMOyZUrQwI-zd8Na4-WIx1oqEdfW8jbUeGBFyRtXsYhPE6FwWH5NUqUeWzHsS48SaMNA9ZWg=w640-h426-n-rj-l90",
+        "picture1" :"https://na.rdcpix.com/84a4ec9e6b0eb3f2ed40c255930c9a72w-c2472597898rd-w832_q80.jpg",
+        "picture2":"https://images.adsttc.com/media/images/635a/7181/8e83/fd08/6792/c9aa/large_jpg/tropical-penthouse-studioduo-architecture-interior_1.jpg?1666871728",
+        "picture3":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/c3094b48709025.589f9495c014c.jpg",
+        "picture4":"https://media.designcafe.com/wp-content/uploads/2021/11/22204726/living-room-designs-indian-style-middle-class.jpg",
+        "picture5":"https://www.mcdonaldjoneshomes.com.au/sites/default/files/inline-images/Interior-Design-Trends.jpg",
+        "picture6":"https://i.ytimg.com/vi/jz2mL0ortEE/sddefault.jpg",
+        "picture7":"https://foyr.com/learn/wp-content/uploads/2020/03/ab.jpg",
+        "url": "properties/prop3.html",
+        "type":"Rent",
+        "plan":"https://www.thehousedesigners.com/images/plans/01/HWD/bulk/6900/thd-014-fp-02.webp",
+        "added": {
+          "month": "July",
+          "day": 8,
+          "year": 2023
+        }
+      },
+      
+      {
+        "id": "prop4",
+        "typeh": "House",
+        "bedrooms": 5,
+        "price": 1250000,
+        "tenure": "Freehold",
+        "description": "Impressive five-bedroom detached house with panoramic views of the countryside. This property boasts a spacious living area, a gourmet kitchen, and a landscaped garden with a private pool. Additionally, there is a home office, a gym, and a double garage. Situated in a peaceful location, yet conveniently close to local amenities and excellent schools.",
+        "location": "Nugegoda",
+        "picture": "https://archivaldesigns.com/cdn/shop/products/Peach-Tree-Front_1200x.jpg?v=1648224612",
+        "picture1" :"https://na.rdcpix.com/84a4ec9e6b0eb3f2ed40c255930c9a72w-c2472597898rd-w832_q80.jpg",
+        "picture2":"https://images.adsttc.com/media/images/635a/7181/8e83/fd08/6792/c9aa/large_jpg/tropical-penthouse-studioduo-architecture-interior_1.jpg?1666871728",
+        "picture3":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/c3094b48709025.589f9495c014c.jpg",
+        "picture4":"https://media.designcafe.com/wp-content/uploads/2021/11/22204726/living-room-designs-indian-style-middle-class.jpg",
+        "picture5":"https://www.mcdonaldjoneshomes.com.au/sites/default/files/inline-images/Interior-Design-Trends.jpg",
+        "picture6":"https://i.ytimg.com/vi/jz2mL0ortEE/sddefault.jpg",
+        "picture7":"https://foyr.com/learn/wp-content/uploads/2020/03/ab.jpg",
+        "url": "properties/prop4.html",
+        "type":"Sale",
+        "plan":"https://www.thehousedesigners.com/images/plans/01/HWD/bulk/6900/thd-014-fp-02.webp",
+        "added": {
+          "month": "May",
+          "day": 16,
+          "year": 2023
+        }
+      },      
+      {
+        "id": "prop5",
+        "typeh": "Townhouse",
+        "bedrooms": 3,
+        "price": 680000,
+        "tenure": "Freehold",
+        "description": "Beautifully presented three-bedroom townhouse with a contemporary design. The property features a bright and spacious interior, a modern kitchen/dining area, and a private rooftop terrace with stunning views. Conveniently located near parks, schools, and public transport links.",
+        "location": "Colombo",
+        "picture": "https://eastwood.nyc3.cdn.digitaloceanspaces.com/blogs/Screenshot%202023-05-26%20at%2011.30.03%20AM.png",
+        "picture1" :"https://na.rdcpix.com/84a4ec9e6b0eb3f2ed40c255930c9a72w-c2472597898rd-w832_q80.jpg",
+        "picture2":"https://images.adsttc.com/media/images/635a/7181/8e83/fd08/6792/c9aa/large_jpg/tropical-penthouse-studioduo-architecture-interior_1.jpg?1666871728",
+        "picture3":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/c3094b48709025.589f9495c014c.jpg",
+        "picture4":"https://media.designcafe.com/wp-content/uploads/2021/11/22204726/living-room-designs-indian-style-middle-class.jpg",
+        "picture5":"https://www.mcdonaldjoneshomes.com.au/sites/default/files/inline-images/Interior-Design-Trends.jpg",
+        "picture6":"https://i.ytimg.com/vi/jz2mL0ortEE/sddefault.jpg",
+        "picture7":"https://foyr.com/learn/wp-content/uploads/2020/03/ab.jpg",
+        "url": "properties/prop5.html",
+        "type":"Rent",
+        "plan":"https://www.thehousedesigners.com/images/plans/01/HWD/bulk/6900/thd-014-fp-02.webp",
+        "added": {
+          "month": "April",
+          "day": 3,
+          "year": 2023
+        }
+      },
+      
+      {
+        "id": "prop6",
+        "typeh": "Villa",
+        "bedrooms": 6,
+        "price": 2800000,
+        "tenure": "Freehold",
+        "description": "Luxurious six-bedroom villa nestled in a gated community with breathtaking sea views. This property offers a grand living space, a state-of-the-art kitchen, and a landscaped garden with a pool and entertainment area. Features include a home theater, wine cellar, and a private gym. Close proximity to exclusive beaches and amenities.",
+        "location": "Negombo",
+        "picture": "https://www.myluxoria.com/storage/app/uploads/public/630/77d/1e4/63077d1e4e7a2970728706.jpg",
+        "picture1" :"https://na.rdcpix.com/84a4ec9e6b0eb3f2ed40c255930c9a72w-c2472597898rd-w832_q80.jpg",
+        "picture2":"https://images.adsttc.com/media/images/635a/7181/8e83/fd08/6792/c9aa/large_jpg/tropical-penthouse-studioduo-architecture-interior_1.jpg?1666871728",
+        "picture3":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/c3094b48709025.589f9495c014c.jpg",
+        "picture4":"https://media.designcafe.com/wp-content/uploads/2021/11/22204726/living-room-designs-indian-style-middle-class.jpg",
+        "picture5":"https://www.mcdonaldjoneshomes.com.au/sites/default/files/inline-images/Interior-Design-Trends.jpg",
+        "picture6":"https://i.ytimg.com/vi/jz2mL0ortEE/sddefault.jpg",
+        "picture7":"https://foyr.com/learn/wp-content/uploads/2020/03/ab.jpg",
+        "url": "properties/prop6.html",
+        "type":"Rent",
+        "plan":"https://www.thehousedesigners.com/images/plans/01/HWD/bulk/6900/thd-014-fp-02.webp",
+        "added": {
+          "month": "February",
+          "day": 20,
+          "year": 2023
+        }
+      },
+
+
+      {
+        "id": "prop7",
+        "typeh": "Duplex",
+        "bedrooms": 4,
+        "price": 960000,
+        "tenure": "Leasehold",
+        "description": "Contemporary four-bedroom duplex apartment with stunning riverfront views. The property features a spacious layout, a designer kitchen, and a balcony overlooking the river. Residents enjoy access to a communal gym, concierge services, and secure parking. Prime location with easy access to transportation and vibrant dining options.",
+        "location": "Bambamapitiya",
+        "picture": "https://www.realestate.com.au/news-image/w_2000,h_1500/v1657777522/news-lifestyle-content-assets/wp-content/production/Duplex_2.jpeg?_i=AA",
+        "picture1" :"https://na.rdcpix.com/84a4ec9e6b0eb3f2ed40c255930c9a72w-c2472597898rd-w832_q80.jpg",
+        "picture2":"https://images.adsttc.com/media/images/635a/7181/8e83/fd08/6792/c9aa/large_jpg/tropical-penthouse-studioduo-architecture-interior_1.jpg?1666871728",
+        "picture3":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/c3094b48709025.589f9495c014c.jpg",
+        "picture4":"https://media.designcafe.com/wp-content/uploads/2021/11/22204726/living-room-designs-indian-style-middle-class.jpg",
+        "picture5":"https://www.mcdonaldjoneshomes.com.au/sites/default/files/inline-images/Interior-Design-Trends.jpg",
+        "picture6":"https://i.ytimg.com/vi/jz2mL0ortEE/sddefault.jpg",
+        "picture7":"https://foyr.com/learn/wp-content/uploads/2020/03/ab.jpg",
+        "url": "properties/prop7.html",
+        "type":"Sale",
+        "plan":"https://www.thehousedesigners.com/images/plans/01/HWD/bulk/6900/thd-014-fp-02.webp",
+        "added": {
+          "month": "June",
+          "day": 10,
+          "year": 2023
+        }
+      }
+      
+      
+   
+]

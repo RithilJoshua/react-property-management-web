@@ -1,0 +1,75 @@
+.imgground{
+    background-color:whitesmoke;
+    height: 36rem;
+    position: fixed;
+    z-index: 9999;
+    top: 11%;
+    left: 27%;
+    border: 1px solid #030303;
+    animation: fadeIn 0.3s ease-out;
+    box-shadow: 0 0 1000px 2000px  rgba(0, 0, 0, 0.7);
+    width: 100vh;
+    
+   
+
+}
+
+.clbtn{
+    background-color: whitesmoke;
+    border: none;
+    color: red;
+    font-size: 25px;
+
+}
+.clbtn:hover{
+    background-color: red;
+    color: white;
+}
+
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+
+  /*----------------------------------------------------------------------------*/
+.modelbackground{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 90vh;
+}
+
+.modelcontainer{
+    background-color: white;
+    width: 26rem;
+    height: 75vh;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 25px;
+}
+
+
+
+.price_r{
+    display: flex;
+    flex-direction: column;
+}
+
+.date_r{
+    display: flex;
+    flex-direction: column;
+}
+
+.imgcontainer{
+    height: 400px;
+}
+
+
